@@ -19,5 +19,8 @@
 - [x] deepCompare
 
 #### Chapter 5: Higher-Order Functions
+- [x] flattening
+- [x] myOwnLoop
+- [x] everything
 
 #### Chapter 6: The Secret Life of Objects
