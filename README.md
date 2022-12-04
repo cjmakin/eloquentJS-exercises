@@ -24,3 +24,5 @@
 - [x] everything
 
 #### Chapter 6: The Secret Life of Objects
+- [x] vector
+- [x] group
